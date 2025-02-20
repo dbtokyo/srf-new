@@ -20,6 +20,6 @@
 
 #Test with "tesseract -v" in bash
 
-#Created server.py
+#Created server.py (Flask Server / OCR function)
 
-#Created index.html
+#Created index.html (Front end HTML+ Javascript)
