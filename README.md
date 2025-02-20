@@ -8,9 +8,8 @@
 
 #3. Installed below in Powershell
 
-#pip install flask flask-cors werkzeug
-
-#pip install pytesseract pillow
+pip install flask flask-cors werkzeug
+pip install pytesseract pillow
 
 #installed Tesseract from below link
 
